@@ -1,2 +1,3 @@
 # maven-web-application
-docker project for maven project
+Docker project for maven project - Build Docker file for sample jave based application.
+this is second line
